@@ -34,11 +34,11 @@ IAM	Provides access control for EC2, RDS
 Security Groups	Controls access to app and database
 
 🖼️ Screenshots
-Add screenshots here using the format below (place screenshots in a /screenshots folder)
+Homepage
+<img width="1898" height="934" alt="image" src="https://github.com/user-attachments/assets/b6c17b4b-ecdb-4345-ad82-85243405ff56" />
+<img width="1907" height="924" alt="image" src="https://github.com/user-attachments/assets/2ca74acb-8459-4934-9530-1ce8567c9242" />
 
-scss
-Copy
-Edit
+User Login
 ![Login Page](<img width="1920" height="934" alt="image" src="https://github.com/user-attachments/assets/8932d27f-bc08-475b-b54b-dd25b138c994" />
 )
 User Dashboard
@@ -46,6 +46,12 @@ User Dashboard
 
 !Booking(<img width="1899" height="928" alt="image" src="https://github.com/user-attachments/assets/eec1b0b8-c87a-49bb-88eb-37a5600b74e0" />
 )
+Admin Login Panel
+<img width="1920" height="930" alt="image" src="https://github.com/user-attachments/assets/cbb271bc-8f2b-4a22-b183-cc6ee73f69c5" />
+Admin Dashboard
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/ff58973f-160e-40cb-9cc9-04210e1e8f03" />
+
+
 ⚙️ Setup Instructions
 1. Clone the Repo
 bash
@@ -71,10 +77,8 @@ cpp
 Copy
 Edit
 http:13.233.227.156/index.php
-📂 Folder Structure (Optional)
-pgsql
-Copy
-Edit
+📂 Folder Structure 
+
 .
 ├── admin/
 ├── user/
@@ -82,7 +86,7 @@ Edit
 ├── dbconnection.php
 ├── index.php
 └── README.md
-💡 Future Enhancements
+
 
 
 ✍️ Author

@@ -60,7 +60,7 @@ Admin Dashboard
 bash
 Copy
 Edit
-git clone [https://github.com/your-username/gym-management-system-aws.git](https://github.com/kshitij-200430/Gym-Management-System-.git)
+git clone https://github.com/kshitij-200430/aws-gym-portal.git
 cd gym-management-system-aws
 2. Launch on AWS
 ✅ Upload your project to EC2 using scp

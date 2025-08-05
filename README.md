@@ -32,7 +32,8 @@ EC2	Hosts the PHP web server
 RDS	Manages MySQL database
 IAM	Provides access control for EC2, RDS
 Security Groups	Controls access to app and database
-<img width="811" height="760" alt="image" src="https://github.com/user-attachments/assets/73cc690d-f7e7-4f3a-9afc-a99aebc47871" />
+<img width="656" height="726" alt="image" src="https://github.com/user-attachments/assets/67c67cdb-1edb-443c-9109-39d75e0b26a4" />
+
 
 🖼️ Screenshots
 Homepage

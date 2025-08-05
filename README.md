@@ -35,7 +35,8 @@ Security Groups	Controls access to app and database
 <img width="656" height="726" alt="image" src="https://github.com/user-attachments/assets/67c67cdb-1edb-443c-9109-39d75e0b26a4" />
 
 
-🖼️ Screenshots
+🖼️ Screenshots:
+
 Homepage
 <img width="1898" height="934" alt="image" src="https://github.com/user-attachments/assets/b6c17b4b-ecdb-4345-ad82-85243405ff56" />
 <img width="1907" height="924" alt="image" src="https://github.com/user-attachments/assets/2ca74acb-8459-4934-9530-1ce8567c9242" />
